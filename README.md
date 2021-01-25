@@ -1,7 +1,7 @@
 # QR-Authentication-Entry-Exit-System
 An entry-exit system based on QR code, which identifies an entree from the database and does not allow duplicity of entries
 
-The database stores USN(ID) values as varchar along with presence variable which determines whether the person is present in the campus or not
+The database stores USN(ID) values as varchar along with presence variable as a boolean variable which determines whether the person is present in the campus or not
 presence = 1 (Present in campus)
 presence = 0 (Not present in campus)
 
